@@ -7,7 +7,7 @@
 ### 1. The Dataset used in these models tells about whether a person of certain age having certain income purchases a product or not
 ### 2. We need to predict whether a person will purchase the product or not.
 
-# ML approaches:
+## ML approaches:
 ### 1.Logistic Regression
 ### 2.Random Forest Classifier
 ### 3.Decision Tree Classifier
